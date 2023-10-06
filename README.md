@@ -18,4 +18,4 @@
 
 
 
-                              ![UpTrader _video_to_gifs_bot_AgADLzQAAoZkAAFJ](https://github.com/muslimbek77/UpTraderTask/assets/48023644/461caf43-6214-430b-be00-43260e7a4e18)
+                                        ![UpTrader _video_to_gifs_bot_AgADLzQAAoZkAAFJ](https://github.com/muslimbek77/UpTraderTask/assets/48023644/acf7ccf7-66e4-4889-b82f-7f1cc7ed2442)
