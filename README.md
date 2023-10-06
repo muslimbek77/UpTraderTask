@@ -17,6 +17,6 @@
 Задание выложить на гитхаб.
                                                                     Результат:
 
-                                       ![Видео без названия — сделано в Clipchamp](https://github.com/muslimbek77/UpTraderTask/assets/48023644/046b433e-ef2e-4f8e-8d41-db903ad4b7f7)
+              ![Видео без названия — сделано в Clipchamp](https://github.com/muslimbek77/UpTraderTask/assets/48023644/e03e2716-0235-4c80-8258-e54e8d55e22d)
 
 
