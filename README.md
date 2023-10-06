@@ -17,5 +17,4 @@
 Задание выложить на гитхаб.
 
 
-
-                                        ![UpTrader _video_to_gifs_bot_AgADLzQAAoZkAAFJ](https://github.com/muslimbek77/UpTraderTask/assets/48023644/acf7ccf7-66e4-4889-b82f-7f1cc7ed2442)
+https://github.com/muslimbek77/UpTraderTask/assets/48023644/79252361-323d-49e7-be83-6efd8f8d5b9e
