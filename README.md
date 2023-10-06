@@ -16,5 +16,6 @@
 При решении тестового задания у вас не должно возникнуть вопросов. Если появляются вопросы, вероятнее всего, у вас недостаточно знаний.
 Задание выложить на гитхаб.
 
+![999588837 _video_to_gifs_bot_AgADjRAAAvHrAAFR](https://github.com/muslimbek77/UpTraderTask/assets/48023644/269fe781-ab97-4e0d-8434-baae62d814df)
 
 https://github.com/muslimbek77/UpTraderTask/assets/48023644/79252361-323d-49e7-be83-6efd8f8d5b9e
