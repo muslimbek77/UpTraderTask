@@ -15,4 +15,7 @@
  При выполнении задания из библиотек следует использовать только Django и стандартную библиотеку Python.
 При решении тестового задания у вас не должно возникнуть вопросов. Если появляются вопросы, вероятнее всего, у вас недостаточно знаний.
 Задание выложить на гитхаб.
-![ezgif com-optimize](https://github.com/muslimbek77/UpTraderTask/assets/48023644/1fc7ee69-4da0-40e2-a291-c5b476f0ee6f)
+
+
+
+                              ![UpTrader _video_to_gifs_bot_AgADLzQAAoZkAAFJ](https://github.com/muslimbek77/UpTraderTask/assets/48023644/461caf43-6214-430b-be00-43260e7a4e18)
